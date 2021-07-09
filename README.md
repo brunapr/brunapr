@@ -1,4 +1,4 @@
-### Hi there, I'm Seth. 👋
+### Hi there, I'm Bruna. 👋
 
 I'm a Computer Science student at **UFRJ** and currently working at **EJCM** as front-end developer ✨
 
