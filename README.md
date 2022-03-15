@@ -9,4 +9,4 @@ I'm a Computer Science student at **UFRJ** and currently working at **EJCM** as 
 - 🗺️ Living in Brazil
 - 🌱 Currently learning Node.js
 - 🎨 Pixel art lover!
-- ☎️ Reach me through [LinkedIn](https://www.linkedin.com/in/riseth/)
+- ☎️ Reach me through [LinkedIn](https://www.linkedin.com/in/prbruna/)
