@@ -12,7 +12,7 @@ I'm a Computer Science student at **UFRJ** and a Front-end Developer ✨
 - 🌱 Currently learning VueJs
 - 🎨 Pixel art lover!
 - 🐱 Reach me through [LinkedIn](https://www.linkedin.com/in/prbruna/)
-- 💜 See my [Portfolio](https://brunapimenta.vercel.app)
+- 💜 See my [Portfolio](brunapr.github.io)
 
 #### 👾 Stats
 
