@@ -16,4 +16,4 @@ I'm a Computer Science student at **UFRJ** and a Front-end Developer ✨
 
 #### 👾 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunapr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunapr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=javascript,php)
