@@ -1,4 +1,4 @@
-### Hi there, I'm Bruna. 👋
+### Hi there, I'm Bruna 👋
 
 Frontend Developer at **IVISA-Rio** and Computer Science graduate from **UFRJ** ✨
 
@@ -17,6 +17,3 @@ Frontend Developer at **IVISA-Rio** and Computer Science graduate from **UFRJ** 
 #### 👾 Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunapr&theme=dracula&exclude=C)
-
-![](https://raw.githubusercontent.com/brunapr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/brunapr/github-stats/master/generated/overview.svg#gh-light-mode-only)
