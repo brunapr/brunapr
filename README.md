@@ -1,6 +1,6 @@
 ### Hi there, I'm Bruna. 👋
 
-I'm a Computer Science student at **UFRJ** and a Front-end Developer ✨
+Frontend Developer at **IVISA-Rio** and Computer Science graduate from **UFRJ** ✨
 
 #### 📚 Main Techs
 
@@ -9,11 +9,14 @@ I'm a Computer Science student at **UFRJ** and a Front-end Developer ✨
 #### 📌 Info
 
 - 🌍 Living in Brazil
-- 🌱 Currently learning VueJs
+- 🌱 Currently learning NestJs
 - 🎨 Pixel art lover!
 - 🐱 Reach me through [LinkedIn](https://www.linkedin.com/in/prbruna/)
 - 💜 See my [Portfolio](https://brunapr.github.io/)
 
 #### 👾 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=brunapr&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&hide=javascript,php)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunapr&theme=dracula&exclude=C)
+
+![](https://raw.githubusercontent.com/brunapr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/brunapr/github-stats/master/generated/overview.svg#gh-light-mode-only)
