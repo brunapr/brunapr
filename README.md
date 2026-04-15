@@ -16,4 +16,5 @@ Frontend Developer at **IVISA-Rio** and Computer Science graduate from **UFRJ** 
 
 #### 👾 Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunapr&theme=dracula&exclude=C)
+<!--  ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunapr&theme=dracula&exclude=C) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acrds&layout=compact&langs_count=7&theme=radical"/>
